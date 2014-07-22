@@ -1,4 +1,11 @@
 <?php
+    /**
+     * PHP Curl Wrapper (https://github.com/dwappu/curlLib)
+     *
+     * @author DWAPPU
+     * @copyright 2014 DWAPPU
+     * @version 1.0
+     */
     class curl{
         private $CH;
         private $METHOD;
